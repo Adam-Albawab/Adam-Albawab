@@ -1,4 +1,4 @@
 Hi, I’m @Adam-Albawab
-- I am a Computer Science student at the University of Texas at Arlington and will be graduating in May of 2022.
-- I am currently looking for a job as a Software Developer/Engineer.
-- I am interested in working as a part of a development team.
+- I am a Computer Science graduate from the University of Texas at Arlington. I graduated in May of 2022.
+- I am currently working at American Airlines as a Software Developer.
+- I am learning to be a better developer and new tech stacks such as Angular, NodeJS, and MongoDB
